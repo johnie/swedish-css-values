@@ -1,6 +1,6 @@
 {
   "name": "swedish-css-values",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Swedish CSS Values",
   "main": "index.js",
   "scripts": {

@@ -14,6 +14,8 @@ module.exports = {
   'left': 'vänster',
   'no-repeat': 'ingen-upprepning',
   'none': 'ingen',
+  'inline': 'uppradad',
+  'inline-block': 'uppradad-block',
   'relative': 'relativ',
   'repeat-x': 'upprepning-x',
   'repeat-y': 'upprepning-y',

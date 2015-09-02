@@ -15,11 +15,13 @@ _Please feel free to submit a pull request if any of the words seem weird_
 * `initial`: inledande
 * `italic`: kursiv
 * `left`: vänster
-* `no`-repeat: ingen-upprepning
+* `no-repeat`: ingen-upprepning
 * `none`: ingen
+* `inline`: uppradad
+* `inline-block`: uppradad-block
 * `relative`: relativ
-* `repeat`-x: upprepning-x
-* `repeat`-y: upprepning-y
+* `repeat-x`: upprepning-x
+* `repeat-y`: upprepning-y
 * `repeat`: upprepning
 * `right`: höger
 * `solid`: solid

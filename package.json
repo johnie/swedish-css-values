@@ -1,0 +1,25 @@
+{
+  "name": "swedish-css-values",
+  "version": "1.0.0",
+  "description": "Swedish CSS Values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnie/swedish-css-values.git"
+  },
+  "keywords": [
+    "css",
+    "postcss",
+    "swedish",
+    "values"
+  ],
+  "author": "Johnie Hjelm <johnie@hjelm.im>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnie/swedish-css-values/issues"
+  },
+  "homepage": "https://github.com/johnie/swedish-css-values#readme"
+}

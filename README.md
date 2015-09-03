@@ -1,4 +1,4 @@
-# Swedish CSS Values
+# <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" height="32px" width="auto"> Swedish CSS Values
 
 > Overall CSS Values translated into Swedish
 

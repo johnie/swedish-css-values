@@ -4,6 +4,22 @@
 
 _Please feel free to submit a pull request if any of the words seem weird_
 
+## Usage
+
+```console
+$ npm install --save swedish-css-values
+```
+
+```js
+/**
+ * Getting Swedish CSS Values
+ *
+ * @return {object}
+ */
+
+var SECSS = require('swedish-css-values');
+```
+
 ## Values
 
 * `absolute`: absolut
